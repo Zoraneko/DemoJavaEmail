@@ -1,0 +1,7 @@
+// Compile trước
+
+mvn compile
+
+// Chạy app
+
+mvn exec:java
